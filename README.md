@@ -1,5 +1,63 @@
 # Some works with ML(segmentation)
 
+## Massachusetts Roads 🌎
+
+Dataset: [Link](https://www.kaggle.com/insaff/massachusetts-roads-dataset)
+
+Notebook: [Link](https://github.com/Rojanson/ML-works-with-segmentation/tree/master/Massachusettsroads)
+
+Model: [Resunet50](https://github.com/Rojanson/ML-works-with-segmentation/tree/master/Massachusettsroads)
+
+### Some results on test images:
+![Massachusettsroads0](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/Massachusettsroads/imgtest/__results___6_0.png)
+![Massachusettsroads1](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/Massachusettsroads/imgtest/__results___6_1.png)
+![Massachusettsroads2](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/Massachusettsroads/imgtest/__results___6_2.png)
+![Massachusettsroads3](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/Massachusettsroads/imgtest/__results___6_3.png)
+![Massachusettsroads4](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/Massachusettsroads/imgtest/__results___6_4.png)
+![Massachusettsroads5](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/Massachusettsroads/imgtest/__results___6_5.png)
+![Massachusettsroads6](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/Massachusettsroads/imgtest/__results___6_6.png)
+![Massachusettsroads7](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/Massachusettsroads/imgtest/__results___6_7.png)
+![Massachusettsroads8](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/Massachusettsroads/imgtest/__results___6_8.png)
+![Massachusettsroads9](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/Massachusettsroads/imgtest/__results___6_9.png)
+![Massachusettsroads10](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/Massachusettsroads/imgtest/__results___6_10.png)
+![Massachusettsroads11](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/Massachusettsroads/imgtest/__results___6_11.png)
+![Massachusettsroads12](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/Massachusettsroads/imgtest/__results___6_12.png)
+
+## Zanzibar OpenAI Building Footprint Mapping 🌏
+
+Dataset: [Link](https://www.kaggle.com/sayantandas30011998/zanzibar-openai-building-footprint-mapping)
+
+Notebook: [Link](https://github.com/Rojanson/ML-works-with-segmentation/tree/master/dronebuilding)
+
+Model: [Resunet34](https://github.com/Rojanson/ML-works-with-segmentation/tree/master/dronebuilding)
+### Some results on validation images:
+![Dronebuildingimg1](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/dronebuilding/img(validation)/masks/__results___15_1.png)
+![Dronebuildingimg2](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/dronebuilding/img(validation)/masks/__results___15_2.png)
+![Dronebuildingimg3](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/dronebuilding/img(validation)/masks/__results___15_3.png)
+![Dronebuildingimg4](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/dronebuilding/img(validation)/masks/__results___15_4.png)
+![Dronebuildingimg5](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/dronebuilding/img(validation)/masks/__results___15_5.png)
+![Dronebuildingimg6](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/dronebuilding/img(validation)/masks/__results___15_6.png)
+![Dronebuildingimg7](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/dronebuilding/img(validation)/masks/__results___15_7.png)
+![Dronebuildingimg8](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/dronebuilding/img(validation)/masks/__results___15_8.png)
+![Dronebuildingimg9](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/dronebuilding/img(validation)/masks/__results___15_9.png)
+![Dronebuildingimg10](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/dronebuilding/img(validation)/masks/__results___15_10.png)
+![Dronebuildingimg11](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/dronebuilding/img(validation)/masks/__results___15_11.png)
+![Dronebuildingimg12](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/dronebuilding/img(validation)/masks/__results___15_12.png)
+![Dronebuildingimg13](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/dronebuilding/img(validation)/masks/__results___15_13.png)
+![Dronebuildingimg14](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/dronebuilding/img(validation)/masks/__results___15_14.png)
+![Dronebuildingimg15](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/dronebuilding/img(validation)/masks/__results___15_15.png)
+![Dronebuildingimg16](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/dronebuilding/img(validation)/masks/__results___15_16.png)
+![Dronebuildingimg17](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/dronebuilding/img(validation)/masks/__results___15_17.png)
+![Dronebuildingimg18](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/dronebuilding/img(validation)/masks/__results___15_18.png)
+![Dronebuildingimg19](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/dronebuilding/img(validation)/masks/__results___15_19.png)
+![Dronebuildingimg20](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/dronebuilding/img(validation)/masks/__results___15_20.png)
+![Dronebuildingimg21](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/dronebuilding/img(validation)/masks/__results___15_21.png)
+![Dronebuildingimg22](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/dronebuilding/img(validation)/masks/__results___15_22.png)
+![Dronebuildingimg23](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/dronebuilding/img(validation)/masks/__results___15_23.png)
+![Dronebuildingimg24](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/dronebuilding/img(validation)/masks/__results___15_24.png)
+![Dronebuildingimg25](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/dronebuilding/img(validation)/masks/__results___15_25.png)
+![Dronebuildingimg26](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/dronebuilding/img(validation)/masks/__results___15_26.png)
+
 ## Artificial Lunar Landcape 🌑
 
 Dataset: [Link](https://www.kaggle.com/romainpessia/artificial-lunar-rocky-landscape-dataset)
@@ -10,7 +68,7 @@ Model: [Resunet34](https://github.com/Rojanson/Someworks/tree/master/Artificiall
 
 Model: [VGGU13](https://github.com/Rojanson/Someworks/tree/master/Artificiallunarlandscape)
 
-### Some results on test images:
+### Some results on validation images:
 ![lunarlandscapeimg0](https://raw.githubusercontent.com/Rojanson/Someworks/master/Artificiallunarlandscape/imgtest/__results___19_0.png)
 ![lunarlandscapeimg1](https://raw.githubusercontent.com/Rojanson/Someworks/master/Artificiallunarlandscape/imgtest/__results___19_1.png)
 ![lunarlandscapeimg2](https://raw.githubusercontent.com/Rojanson/Someworks/master/Artificiallunarlandscape/imgtest/__results___19_2.png)
@@ -43,104 +101,3 @@ Model: [VGGU13](https://github.com/Rojanson/Someworks/tree/master/Artificialluna
 ![lunarlandscapeimg29](https://raw.githubusercontent.com/Rojanson/Someworks/master/Artificiallunarlandscape/imgtest/__results___19_29.png)
 ![lunarlandscapeimg30](https://raw.githubusercontent.com/Rojanson/Someworks/master/Artificiallunarlandscape/imgtest/__results___19_30.png)
 ![lunarlandscapeimg31](https://raw.githubusercontent.com/Rojanson/Someworks/master/Artificiallunarlandscape/imgtest/__results___19_31.png)
-
-## Zanzibar OpenAI Building Footprint Mapping 🌏
-
-Dataset: [Link](https://www.kaggle.com/sayantandas30011998/zanzibar-openai-building-footprint-mapping)
-
-Notebook: [Link](https://github.com/Rojanson/ML-works-with-segmentation/tree/master/dronebuilding)
-
-Model: [Resunet34](https://github.com/Rojanson/ML-works-with-segmentation/tree/master/dronebuilding)
-### Some results on validation images:
-![Dronebuildingimg0](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/dronebuilding/img(validation)/masks/__results___15_0.png)
-![Dronebuildingimg1](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/dronebuilding/img(validation)/masks/__results___15_1.png)
-![Dronebuildingimg2](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/dronebuilding/img(validation)/masks/__results___15_2.png)
-![Dronebuildingimg3](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/dronebuilding/img(validation)/masks/__results___15_3.png)
-![Dronebuildingimg4](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/dronebuilding/img(validation)/masks/__results___15_4.png)
-![Dronebuildingimg5](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/dronebuilding/img(validation)/masks/__results___15_5.png)
-![Dronebuildingimg6](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/dronebuilding/img(validation)/masks/__results___15_6.png)
-![Dronebuildingimg7](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/dronebuilding/img(validation)/masks/__results___15_7.png)
-![Dronebuildingimg8](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/dronebuilding/img(validation)/masks/__results___15_8.png)
-![Dronebuildingimg9](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/dronebuilding/img(validation)/masks/__results___15_9.png)
-![Dronebuildingimg10](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/dronebuilding/img(validation)/masks/__results___15_10.png)
-![Dronebuildingimg11](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/dronebuilding/img(validation)/masks/__results___15_11.png)
-![Dronebuildingimg12](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/dronebuilding/img(validation)/masks/__results___15_12.png)
-![Dronebuildingimg13](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/dronebuilding/img(validation)/masks/__results___15_13.png)
-![Dronebuildingimg14](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/dronebuilding/img(validation)/masks/__results___15_14.png)
-![Dronebuildingimg15](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/dronebuilding/img(validation)/masks/__results___15_15.png)
-![Dronebuildingimg16](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/dronebuilding/img(validation)/masks/__results___15_16.png)
-![Dronebuildingimg17](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/dronebuilding/img(validation)/masks/__results___15_17.png)
-![Dronebuildingimg18](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/dronebuilding/img(validation)/masks/__results___15_18.png)
-![Dronebuildingimg19](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/dronebuilding/img(validation)/masks/__results___15_19.png)
-![Dronebuildingimg20](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/dronebuilding/img(validation)/masks/__results___15_20.png)
-![Dronebuildingimg21](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/dronebuilding/img(validation)/masks/__results___15_21.png)
-![Dronebuildingimg22](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/dronebuilding/img(validation)/masks/__results___15_22.png)
-![Dronebuildingimg23](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/dronebuilding/img(validation)/masks/__results___15_23.png)
-![Dronebuildingimg24](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/dronebuilding/img(validation)/masks/__results___15_24.png)
-![Dronebuildingimg25](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/dronebuilding/img(validation)/masks/__results___15_25.png)
-![Dronebuildingimg26](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/dronebuilding/img(validation)/masks/__results___15_26.png)
-
-## Massachusetts Roads 🌎
-
-Dataset: [Link](https://www.kaggle.com/insaff/massachusetts-roads-dataset)
-
-Notebook: [Link](https://github.com/Rojanson/ML-works-with-segmentation/tree/master/Massachusettsroads)
-
-Model: [Resunet50](https://github.com/Rojanson/ML-works-with-segmentation/tree/master/Massachusettsroads)
-
-### Some results on test images:
-![Massachusettsroads1](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/Massachusettsroads/imgtest/__results___20_1.png)
-![Massachusettsroads2](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/Massachusettsroads/imgtest/__results___20_2.png)
-![Massachusettsroads3](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/Massachusettsroads/imgtest/__results___20_3.png)
-![Massachusettsroads4](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/Massachusettsroads/imgtest/__results___20_4.png)
-![Massachusettsroads5](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/Massachusettsroads/imgtest/__results___20_5.png)
-![Massachusettsroads6](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/Massachusettsroads/imgtest/__results___20_6.png)
-![Massachusettsroads7](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/Massachusettsroads/imgtest/__results___20_7.png)
-![Massachusettsroads8](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/Massachusettsroads/imgtest/__results___20_8.png)
-![Massachusettsroads9](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/Massachusettsroads/imgtest/__results___20_9.png)
-![Massachusettsroads10](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/Massachusettsroads/imgtest/__results___20_10.png)
-![Massachusettsroads11](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/Massachusettsroads/imgtest/__results___20_11.png)
-![Massachusettsroads12](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/Massachusettsroads/imgtest/__results___20_12.png)
-![Massachusettsroads13](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/Massachusettsroads/imgtest/__results___20_13.png)
-![Massachusettsroads14](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/Massachusettsroads/imgtest/__results___20_14.png)
-![Massachusettsroads15](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/Massachusettsroads/imgtest/__results___20_15.png)
-![Massachusettsroads16](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/Massachusettsroads/imgtest/__results___20_16.png)
-![Massachusettsroads17](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/Massachusettsroads/imgtest/__results___20_17.png)
-![Massachusettsroads18](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/Massachusettsroads/imgtest/__results___20_18.png)
-![Massachusettsroads19](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/Massachusettsroads/imgtest/__results___20_19.png)
-![Massachusettsroads20](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/Massachusettsroads/imgtest/__results___20_20.png)
-![Massachusettsroads21](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/Massachusettsroads/imgtest/__results___20_21.png)
-![Massachusettsroads22](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/Massachusettsroads/imgtest/__results___20_22.png)
-![Massachusettsroads23](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/Massachusettsroads/imgtest/__results___20_23.png)
-![Massachusettsroads24](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/Massachusettsroads/imgtest/__results___20_24.png)
-![Massachusettsroads25](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/Massachusettsroads/imgtest/__results___20_25.png)
-![Massachusettsroads26](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/Massachusettsroads/imgtest/__results___20_26.png)
-![Massachusettsroads27](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/Massachusettsroads/imgtest/__results___20_27.png)
-![Massachusettsroads28](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/Massachusettsroads/imgtest/__results___20_28.png)
-![Massachusettsroads29](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/Massachusettsroads/imgtest/__results___20_29.png)
-![Massachusettsroads30](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/Massachusettsroads/imgtest/__results___20_30.png)
-![Massachusettsroads31](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/Massachusettsroads/imgtest/__results___20_31.png)
-![Massachusettsroads32](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/Massachusettsroads/imgtest/__results___20_32.png)
-![Massachusettsroads33](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/Massachusettsroads/imgtest/__results___20_33.png)
-![Massachusettsroads34](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/Massachusettsroads/imgtest/__results___20_34.png)
-![Massachusettsroads35](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/Massachusettsroads/imgtest/__results___20_35.png)
-![Massachusettsroads36](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/Massachusettsroads/imgtest/__results___20_36.png)
-![Massachusettsroads37](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/Massachusettsroads/imgtest/__results___20_37.png)
-![Massachusettsroads38](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/Massachusettsroads/imgtest/__results___20_38.png)
-![Massachusettsroads39](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/Massachusettsroads/imgtest/__results___20_39.png)
-![Massachusettsroads40](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/Massachusettsroads/imgtest/__results___20_40.png)
-![Massachusettsroads41](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/Massachusettsroads/imgtest/__results___20_41.png)
-![Massachusettsroads42](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/Massachusettsroads/imgtest/__results___20_42.png)
-![Massachusettsroads43](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/Massachusettsroads/imgtest/__results___20_43.png)
-![Massachusettsroads44](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/Massachusettsroads/imgtest/__results___20_44.png)
-![Massachusettsroads45](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/Massachusettsroads/imgtest/__results___20_45.png)
-![Massachusettsroads46](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/Massachusettsroads/imgtest/__results___20_46.png)
-![Massachusettsroads47](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/Massachusettsroads/imgtest/__results___20_47.png)
-![Massachusettsroads48](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/Massachusettsroads/imgtest/__results___20_48.png)
-![Massachusettsroads49](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/Massachusettsroads/imgtest/__results___20_49.png)
-![Massachusettsroads50](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/Massachusettsroads/imgtest/__results___20_50.png)
-![Massachusettsroads51](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/Massachusettsroads/imgtest/__results___20_51.png)
-![Massachusettsroads52](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/Massachusettsroads/imgtest/__results___20_52.png)
-![Massachusettsroads53](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/Massachusettsroads/imgtest/__results___20_53.png)
-![Massachusettsroads54](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/Massachusettsroads/imgtest/__results___20_54.png)
-![Massachusettsroads55](https://raw.githubusercontent.com/Rojanson/ML-works-with-segmentation/master/Massachusettsroads/imgtest/__results___20_55.png)
